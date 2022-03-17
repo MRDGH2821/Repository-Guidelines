@@ -25,6 +25,7 @@
     "paren",
     "parens",
     "plusplus",
-    "stroustrup"
+    "stroustrup",
+    "MARKDOWNLINT"
   ]
 }
