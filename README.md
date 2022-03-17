@@ -5,7 +5,7 @@
 
 This is AIO place of Guidelines to be used in [MRDGH2821](https://github.com/MRDGH2821)'s repositories
 
-## Who...
+## Who
 
 ### are you?
 
@@ -15,13 +15,13 @@ I'm [MRDGH2821](https://bitly/mrdgh2821)
 
 These guidelines are primarily for my repositories, but feel free to use these guidelines.
 
-## What...
+## What
 
 ### is the goal?
 
 To maintain consistency across my repositories & make it easy to reference specific documents in other repositories
 
-## When...
+## When
 
 ### did you get the idea?
 
@@ -33,7 +33,7 @@ Exact date of writing this - 17 March 2022
 
 Soon™️
 
-## Where...
+## Where
 
 ### is your guideline being applied?
 
@@ -43,11 +43,11 @@ But people are free to apply the guidelines in their own repositories.
 
 ### did you get the inspiration to answer questions in this format?
 
-https://www.workfront.com/blog/project-management-101-the-5-ws-and-1-h-that-should-be-asked-of-every-project
+<https://www.workfront.com/blog/project-management-101-the-5-ws-and-1-h-that-should-be-asked-of-every-project>
 
-https://its.unl.edu/bestpractices/remember-5-ws
+<https://its.unl.edu/bestpractices/remember-5-ws>
 
-## Why...
+## Why
 
 ### are you making this?
 
@@ -55,13 +55,13 @@ Because I needed a common place for standards I would be using across my reposit
 
 It will also help migrate my old repositories which do not follow the guidelines yet.
 
-## Which...
+## Which
 
 ### licence is used?
 
 [MIT](LICENCE)
 
-## How...
+## How
 
 ### can I contribute?
 
