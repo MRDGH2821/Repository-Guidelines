@@ -19,6 +19,12 @@
     "Rabade",
     "mrdgh",
     "stefanzweifel",
-    "venv"
+    "venv",
+    "Parens",
+    "camelcase",
+    "paren",
+    "parens",
+    "plusplus",
+    "stroustrup"
   ]
 }
