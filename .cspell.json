@@ -10,6 +10,6 @@
   ],
   "language": "en",
   "noConfigSearch": true,
-  "words": [],
+  "dictionaries": ["en-gb", "softwareTerms"],
   "version": "0.2"
 }
