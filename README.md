@@ -1,4 +1,4 @@
-[![MegaLinter](https://github.com/MRDGH2821/Repository-Guildelines/workflows/MegaLinter/badge.svg?branch=main)](https://github.com/MRDGH2821/Repository-Guildelines/actions?query=workflow%3AMegaLinter+branch%3Amain)
+[![MegaLinter](https://github.com/MRDGH2821/Repository-Guidelines/workflows/MegaLinter/badge.svg?branch=main)](https://github.com/MRDGH2821/Repository-Guidelines/actions?query=workflow%3AMegaLinter+branch%3Amain)
 
 
 # Repository-Guidelines
@@ -9,7 +9,7 @@ This is AIO place of Guidelines to be used in [MRDGH2821](https://github.com/MRD
 
 ### are you?
 
-I'm [MRDGH2821](https://bitly/mrdgh2821)
+I'm [MRDGH2821](https://bit.ly/mrdgh2821)
 
 ### is this for?
 
@@ -59,7 +59,7 @@ It will also help migrate my old repositories which do not follow the guidelines
 
 ### licence is used?
 
-[MIT](LICENCE)
+[MIT](./LICENSE)
 
 ## How
 
