@@ -10,6 +10,12 @@
   ],
   "language": "en",
   "noConfigSearch": true,
-  "dictionaries": ["en-gb", "softwareTerms"],
-  "version": "0.2"
+  "dictionaries": [
+    "en-gb",
+    "softwareTerms"
+  ],
+  "version": "0.2",
+  "words": [
+    "PYLINT"
+  ]
 }
