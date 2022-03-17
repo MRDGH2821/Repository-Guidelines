@@ -1,3 +1,6 @@
+[![MegaLinter](https://github.com/MRDGH2821/Repository-Guildelines/workflows/MegaLinter/badge.svg?branch=main)](https://github.com/MRDGH2821/Repository-Guildelines/actions?query=workflow%3AMegaLinter+branch%3Amain)
+
+
 # Repository-Guidelines
 
 This is AIO place of Guidelines to be used in [MRDGH2821](https://github.com/MRDGH2821)'s repositories
