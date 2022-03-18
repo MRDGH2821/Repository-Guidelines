@@ -1,5 +1,8 @@
 {
-  "dictionaries": ["en-gb", "softwareTerms"],
+  "dictionaries": [
+    "en-gb",
+    "softwareTerms"
+  ],
   "ignorePaths": [
     "**/node_modules/**",
     "**/vscode-extension/**",
@@ -13,19 +16,26 @@
   "noConfigSearch": true,
   "version": "0.2",
   "words": [
-    "MRDGH",
-    "Mihir",
-    "PYLINT",
-    "Rabade",
-    "mrdgh",
-    "stefanzweifel",
-    "venv",
-    "Parens",
+    "adipiscing",
+    "amet",
     "camelcase",
+    "consectetur",
+    "Curabitur",
+    "Dumars",
+    "elit",
+    "MARKDOWNLINT",
+    "Mihir",
+    "mrdgh",
+    "MRDGH",
     "paren",
     "parens",
+    "Parens",
     "plusplus",
+    "PYLINT",
+    "Rabade",
+    "stefanzweifel",
     "stroustrup",
-    "MARKDOWNLINT"
+    "tincidunt",
+    "venv"
   ]
 }
