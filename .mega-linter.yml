@@ -16,5 +16,4 @@ DISABLE_LINTERS:
   - SPELL_MISSPELL
   - YAML_YAMLLINT
 
-ADDITIONAL_EXCLUDED_DIRECTORIES:
-  - "./examples/unformatted"
+FILTER_REGEX_EXCLUDE: (examples/unformatted/)
