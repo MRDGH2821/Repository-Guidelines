@@ -1,8 +1,5 @@
 {
-  "dictionaries": [
-    "en-gb",
-    "softwareTerms"
-  ],
+  "dictionaries": ["en-gb", "softwareTerms"],
   "ignorePaths": [
     "**/node_modules/**",
     "**/vscode-extension/**",
