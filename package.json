@@ -24,8 +24,8 @@
   "homepage": "https://github.com/MRDGH2821/Repository-Guidelines#readme",
   "devDependencies": {
     "eslint-config-mrdgh2821": "^2.1.0",
-    "mega-linter-runner": "^5.9.0",
-    "prettier-config-mrdgh2821": "^2.1.0"
+    "mega-linter-runner": "^5.11.0",
+    "prettier-config-mrdgh2821": "^2.2.0"
   },
   "eslintConfig": {
     "extends": [
