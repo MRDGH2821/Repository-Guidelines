@@ -1,5 +1,8 @@
 {
-  "dictionaries": ["en-gb", "softwareTerms"],
+  "dictionaries": [
+    "en-gb",
+    "softwareTerms"
+  ],
   "ignorePaths": [
     "**/node_modules/**",
     "**/vscode-extension/**",
@@ -15,6 +18,7 @@
   "words": [
     "adipiscing",
     "amet",
+    "Autopep",
     "camelcase",
     "consectetur",
     "Curabitur",
@@ -28,7 +32,10 @@
     "parens",
     "Parens",
     "plusplus",
+    "prettierrc",
+    "Pylama",
     "PYLINT",
+    "pyproject",
     "Rabade",
     "stefanzweifel",
     "stroustrup",

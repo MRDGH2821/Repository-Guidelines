@@ -13,10 +13,11 @@
     "ryanlaws.toggle-case",
     "glavin001.unibeautify-vscode",
     "redhat.vscode-yaml",
-    "ms-python.python",
     "christian-kohler.path-intellisense",
     "howardzuo.vscode-npm-dependency",
     "eg2.vscode-npm-script",
-    "ms-vsliveshare.vsliveshare-pack"
+    "ms-vsliveshare.vsliveshare-pack",
+    "knowsuchagency.pdm-task-provider",
+    "ms-python.python"
   ]
 }
