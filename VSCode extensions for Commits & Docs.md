@@ -2,7 +2,6 @@
 
 extensions for better commits & documentation
 
-
 Name: Better Comments
 Id: aaron-bond.better-comments
 Description: Improve your code commenting by annotating with alert, informational, TODOs, and more!

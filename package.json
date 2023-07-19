@@ -13,9 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/MRDGH2821/Repository-Guidelines.git"
   },
-  "keywords": [
-    "guidelines"
-  ],
+  "keywords": ["guidelines"],
   "author": "",
   "license": "MIT",
   "bugs": {
@@ -28,9 +26,7 @@
     "prettier-config-mrdgh2821": "^2.2.0"
   },
   "eslintConfig": {
-    "extends": [
-      "eslint-config-mrdgh2821"
-    ]
+    "extends": ["eslint-config-mrdgh2821"]
   },
   "prettier": "prettier-config-mrdgh2821"
 }
